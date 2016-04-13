@@ -1,0 +1,33 @@
+{
+  "name": "nginx-and-ruby",
+  "description": "Installs/Configures nginx-and-ruby",
+  "long_description": "Installs/Configures nginx-and-ruby",
+  "maintainer": "Shohei Yamasaki",
+  "maintainer_email": "shohei@yamasaki.blue",
+  "license": "all_rights",
+  "platforms": {
+  },
+  "dependencies": {
+    "ruby_rbenv": ">= 0.0.0",
+    "ruby_build": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}

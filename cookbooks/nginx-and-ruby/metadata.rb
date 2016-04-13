@@ -1,0 +1,10 @@
+name 'nginx-and-ruby'
+maintainer 'Shohei Yamasaki'
+maintainer_email 'shohei@yamasaki.blue'
+license 'all_rights'
+description 'Installs/Configures nginx-and-ruby'
+long_description 'Installs/Configures nginx-and-ruby'
+version '0.1.0'
+
+depends 'ruby_rbenv'
+depends 'ruby_build'

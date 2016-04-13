@@ -1,0 +1,6 @@
+{
+  "name": "nginx-and-ruby-with-docker",
+  "run_list": [
+    "recipe[nginx-and-ruby]"
+  ]
+}
